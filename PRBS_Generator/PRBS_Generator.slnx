@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="PRBS_Generator/PRBS_Generator.vcxproj" />
+  <Project Path="PRBS_Generator/PRBS_Generator.vcxproj" Id="122b1b98-9a6e-41e5-b816-30539301b9db" />
 </Solution>
